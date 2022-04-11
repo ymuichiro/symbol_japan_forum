@@ -1,7 +1,7 @@
 # Blockchain Symbol links
 this page is link collection about "symbol".Please let me know if there are any mistakes, as I am putting this together on my own.
 
-# About Symnbol
+# About Symbol
 [NEM Group site JP](https://jp.symbolplatform.com/)<br>
 [Symbol Global Site](https://symbolplatform.com/)<br>
 [NEM+ | NPO法人 NEM技術普及推進会 NEMTUS](https://nemtus.com/)<br>
