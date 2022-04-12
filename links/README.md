@@ -5,7 +5,7 @@ this page is link collection about "symbol".Please let me know if there are any 
 [Symbol Global Site](https://symbolplatform.com/)<br>
 [Symbol documentation](https://docs.symbolplatform.com/ja/index.html)<br>
 [NEM+ | NPO法人 NEM技術普及推進会 NEMTUS](https://nemtus.com/)<br>
-[NEM Group site JP](https://jp.symbolplatform.com/)<br>
+[NEM Site](https://nem.ghost.io/)<br>
 [NEM Wikipedix](https://ja.m.wikipedia.org/wiki/NEM)<br>
 
 # Apps
