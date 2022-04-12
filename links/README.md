@@ -22,7 +22,7 @@ this page is link collection about "symbol".Please let me know if there are any 
 [Symbol MainNet Node List](https://symbolnodes.org/nodes/)<br>
 [Symbol TestNet Node List](https://symbolnodes.org/nodes_testnet/)<br>
 [NEM MainNet Node List](https://nemnodes.org/nodes/)<br>
-[Symbol Forset](https://testnet.symbol.tools/)<br>
+[Symbol Faucet](https://testnet.symbol.tools/)<br>
 [XYMReciever](https://xembook.github.io/xembook/xemreceiver)<br>
 
 # Comunity
