@@ -8,7 +8,7 @@
 </div>
 
 # Symbol Japan Forum
-Symbol日本コミュニティのフォーラムです。Symbolコミュニティは日々、決済、クリエイティブ、ゲーム、法務、あらゆる領域にて新しい手段を構築しています。誰でもSymbolのそのシンプルな機能に触れる事が出来ます。勿論、このコミュニティにも誰もが参加することができます。このフォーラムではSymbolの利便性向上に向けたディスカッションや、社会課題を解決していけるようなアイディアの提起、Symbolに関する活動の共有等を行います。"Japan Community"とはしていますが、海外の方も気になるトピックがあれば是非、ご参加下さい。
+Symbol日本コミュニティのフォーラムです。Symbolコミュニティは日々ブロックチェーンSymbolを活用して、決済、クリエイティブ、ゲーム、法務、あらゆる領域にて新しい手段を構築しています。誰でもSymbolのそのシンプルな機能に触れる事が出来ます。勿論、このコミュニティにも誰もが参加することができます。このフォーラムではSymbolの利便性向上に向けたディスカッションや、社会課題を解決していけるようなアイディアの提起、Symbolに関する活動の共有等を行います。"Japan Community"とはしていますが、海外の方も気になるトピックがあれば是非、ご参加下さい。
 
 # 目的
 我々は２０１５年から続く、このブロックチェーンプロジェクトを活用して、よりよい社会、体験を提供したいくべく、ブロックチェーンSymbolに関する課題の解決に向けて建設的な議論・実行プランを検討します
@@ -28,6 +28,9 @@ Symbol Japan Forumはオープンかつ、友好的な環境を構築します�
 
 # サイトマップ
 - [ディスカッション](https://github.com/ymuichiro/symbol_japan_forum/issues)
+- [NFTやイラスト](https://github.com/ymuichiro/symbol_japan_forum/wiki/Gallery)
+- [雑談ルーム](https://github.com/ymuichiro/symbol_japan_forum/discussions)
+- [ディスカッション](https://github.com/ymuichiro/symbol_japan_forum/issues)
 - プロジェクト紹介（工事中）
 - [参考リンク集](https://github.com/ymuichiro/symbol_japan_forum/tree/main/links)
 
@@ -40,12 +43,14 @@ Symbol Japan Forumはオープンかつ、友好的な環境を構築します�
     <img
          src="./logo/cc_by_nc_sa/SymbolJapanForum_logo_white.png#gh-light-mode-only"
          height="200px"
+         alt="BlockChain Project"
          style="marginTop:10px;marginBottom:10px">
 </div>
 <div align="right">
     <img
          src="./logo/cc_by_nc_sa/SymbolJapanForum_logo_black.png#gh-dark-mode-only"
          height="200px"
+         alt="BlockChain Project"
          style="marginTop:10px;marginBottom:10px">
 </div>
 
