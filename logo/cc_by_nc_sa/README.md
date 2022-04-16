@@ -12,3 +12,19 @@
 
 [リーガル証](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.ja)
 [リーガルコード](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.ja)
+
+
+---
+## Symbol Japan Forum ロゴ作成協力
+
+Calligraphy
+https://twitter.com/nem_symbol7
+
+Icon
+https://twitter.com/DJ_kooooo
+
+Adjustment of appearance
+https://twitter.com/TrendStream
+
+Image synthesis
+https://twitter.com/faunsu19000
