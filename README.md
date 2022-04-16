@@ -1,5 +1,7 @@
 <div align="center">
-    <img src="./logo/Symbol_Logo_White_BG.png" alt="属性" style="height:100px;marginTop:10px;marginBottom:10px">
+    <img
+         src="./logo/cc_0/Symbol_Logo_White_BG.png"
+         style="height:100px;marginTop:10px;marginBottom:10px">
 </div>
 
 # Symbol Japan Forum
@@ -30,3 +32,17 @@ Symbol Japan Forumはオープンかつ、友好的な環境を構築します�
 本フォーラムはTwitterアカウント名「ふぁー」が管理しております。しかし一人で全てを完璧にこなすことは難しいです。もし共同で管理してもよい、READMEの更新等を手伝ってもよいという方がいらっしゃいましたら、Twitter上でメールアドレスを添えてDM頂ければ幸いです。また、本トップページ以外にページを増やす事もできますので、例えばSymbol関連のプロジェクト一覧やイベント一覧等、そういったページの作成 or 情報提供もお待ちしております
 
 [ふぁー](https://twitter.com/faunsu19000)
+
+<div align="right">
+    <img
+         src="./logo/cc_by_nc_sa/SymbolJapanForum_logo_white.png#gh-light-mode-only"
+         height="200px"
+         style="marginTop:10px;marginBottom:10px">
+</div>
+<div align="right">
+    <img
+         src="./logo/cc_by_nc_sa/SymbolJapanForum_logo_black.png#gh-dark-mode-only"
+         height="200px"
+         style="marginTop:10px;marginBottom:10px">
+</div>
+
