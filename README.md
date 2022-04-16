@@ -1,10 +1,10 @@
 <div align="center">
     <img
          src="./logo/cc_0/Symbol_Logo_Wordmark_Dark_BG.png#gh-light-mode-only"
-         height="150px">
+         >
     <img
          src="./logo/cc_0/Symbol_Logo_Wordmark_Light_BG.png#gh-dark-mode-only"
-         height="150px">
+         >
 </div>
 
 # Symbol Japan Forum
