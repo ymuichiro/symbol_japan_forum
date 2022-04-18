@@ -44,6 +44,9 @@ SymbolはL0ブロックチェーンであり、新しい技術です。この技
 - プロジェクト紹介（工事中）
 - [参考リンク集](https://github.com/ymuichiro/symbol_japan_forum/tree/main/links)
 
+# Symbol Japan Forum公式アカウントについて
+https://twitter.com/symboljp_forum
+
 # 共同管理者、執筆者募集
 本フォーラムはTwitterアカウント名「ふぁー」が管理しております。しかし一人で全てを完璧にこなすことは難しいです。もし共同で管理してもよい、READMEの更新等を手伝ってもよいという方がいらっしゃいましたら、Twitter上でメールアドレスを添えてDM頂ければ幸いです。また、本トップページ以外にページを増やす事もできますので、例えばSymbol関連のプロジェクト一覧やイベント一覧等、そういったページの作成 or 情報提供もお待ちしております
 
