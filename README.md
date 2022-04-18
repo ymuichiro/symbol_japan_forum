@@ -51,14 +51,14 @@ SymbolはL0ブロックチェーンであり、新しい技術です。この技
 
 <div align="right">
     <img
-         src="./logo/cc_by_nc_sa/SymbolJapanForum_logo_white.png#gh-light-mode-only"
+         src="./logo/cc_by_nc_sa/SymbolJapanForum_white_sakura.gif#gh-light-mode-only"
          height="200px"
          alt="BlockChain Project"
          style="marginTop:10px;marginBottom:10px">
 </div>
 <div align="right">
     <img
-         src="./logo/cc_by_nc_sa/SymbolJapanForum_logo_black.png#gh-dark-mode-only"
+         src="./logo/cc_by_nc_sa/SymbolJapanForum_white_sakura.gif#gh-dark-mode-only"
          height="200px"
          alt="BlockChain Project"
          style="marginTop:10px;marginBottom:10px">
