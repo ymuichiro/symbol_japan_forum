@@ -41,6 +41,7 @@ SymbolはL１ブロックチェーンであり、新しい技術です。この�
 - [雑談ルーム](https://github.com/ymuichiro/symbol_japan_forum/discussions)
 - [ディスカッション](https://github.com/ymuichiro/symbol_japan_forum/issues)
 - プロジェクト紹介（工事中）
+- パイレーツアカデミー（準備中）
 - [参考リンク集](https://github.com/ymuichiro/symbol_japan_forum/tree/main/links)
 
 # Symbol Japan Forum公式アカウントについて
