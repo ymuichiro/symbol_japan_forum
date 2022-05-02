@@ -42,7 +42,7 @@ SymbolはL１ブロックチェーンであり、新しい技術です。この�
 - [雑談ルーム](https://github.com/ymuichiro/symbol_japan_forum/discussions)
 - プロジェクト紹介（工事中）
 - [パイレーツアカデミー準備編](https://github.com/ymuichiro/symbol_japan_forum/issues/24)
-- [動画館(Movie Theater)]https://github.com/ymuichiro/symbol_japan_forum/issues/33)
+- [動画館(Movie Theater)](https://github.com/ymuichiro/symbol_japan_forum/issues/33)
 - 広報申請所（準備中）
 - [参考リンク集](https://github.com/ymuichiro/symbol_japan_forum/tree/main/links)
 
