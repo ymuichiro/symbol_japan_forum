@@ -2,11 +2,12 @@
 this page is link collection about "symbol".Please let me know if there are any mistakes, as I am putting this together on my own.
 
 # About Symbol
-[Symbol Global Site](https://symbolplatform.com/)<br>
-[Symbol documentation](https://docs.symbolplatform.com/ja/index.html)<br>
+Symbol Global Site　(公式サイト準備中)<br>
+[Symbol documentation](https://docs.symbol.dev/ja/index.html)<br>
 [NEM+ | NPO法人 NEM技術普及推進会 NEMTUS](https://nemtus.com/)<br>
 [NEM Site](https://nem.ghost.io/)<br>
-[NEM Wikipedix](https://ja.m.wikipedia.org/wiki/NEM)<br>
+[NEM Wikipedia](https://ja.wikipedia.org/wiki/NEM_(暗号通貨))<br>
+[Symbol Wikipedia](https://ja.wikipedia.org/wiki/Symbol_(ブロックチェーン))<br>
 
 # Apps
 [iOS Symbol Wallet](https://apps.apple.com/jp/app/symbol-wallet/id1528741845)<br>
@@ -34,7 +35,7 @@ this page is link collection about "symbol".Please let me know if there are any 
 [NEM Japan Twitter](https://twitter.com/NEM_Japan)<br>
 
 # SDKs
-[Symbol SDK](https://docs.symbolplatform.com/ja/sdk.html#sdk)<br>
+[Symbol SDK](https://docs.symbol.dev/ja/sdk.html)<br>
 
 # Core
 [Symbol Catapult-Client](https://github.com/symbol/catapult-client)<br>
