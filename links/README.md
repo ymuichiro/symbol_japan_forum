@@ -49,6 +49,7 @@ Symbol Global Site　(公式サイト準備中)<br>
 [Symbol SDK](https://docs.symbol.dev/ja/sdk.html)<br>
 
 # Core
+[Symbol Github](https://github.com/symbol)<br>
 [Symbol Catapult-Client](https://github.com/symbol/catapult-client)<br>
 [Symbol desktop-wallet](https://github.com/symbol/desktop-wallet)<br>
 [Symbol mobile-wallet](https://github.com/symbol/mobile-wallet)<br>
