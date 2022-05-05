@@ -29,15 +29,21 @@ Symbol Global Site　(公式サイト準備中)<br>
 [XYMReciever](https://xembook.github.io/xembook/xemreceiver)<br>
 
 # Comunity
+## Discord
 [Discord NEM Japan User Group](https://discord.gg/ab56A3A6)<br>
 [Discord Symbol](https://discord.gg/xymcity)<br>
+
+## Site
 [NEMLOG](https://nemlog.nem.social/)<br>
+[SymbolJapanForum 通称じむはぶ](https://github.com/ymuichiro/symbol_japan_forum)<br>
+
+## Twitter
 [NEM Japan Twitter](https://twitter.com/NEM_Japan)<br>
-[NEM 関連 @nemofficial](https://twitter.com/nemofficial)
-[Symbol @thesymbolchain](https://twitter.com/thesymbolchain)
-[Symbolシンジケート @SymbolSyndicate](https://twitter.com/SymbolSyndicate)
-[不死鳥財団 @TheFushichou](https://twitter.com/TheFushichou)
-[リンガフランカ @aBermudaCompany](https://twitter.com/aBermudaCompany)
+[NEM 関連 @nemofficial](https://twitter.com/nemofficial)<br>
+[Symbol @thesymbolchain](https://twitter.com/thesymbolchain)<br>
+[Symbolシンジケート @SymbolSyndicate](https://twitter.com/SymbolSyndicate)<br>
+[不死鳥財団 @TheFushichou](https://twitter.com/TheFushichou)<br>
+[リンガフランカ @aBermudaCompany](https://twitter.com/aBermudaCompany)<br>
 
 # SDKs
 [Symbol SDK](https://docs.symbol.dev/ja/sdk.html)<br>
