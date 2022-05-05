@@ -33,6 +33,11 @@ Symbol Global Site　(公式サイト準備中)<br>
 [Discord Symbol](https://discord.gg/xymcity)<br>
 [NEMLOG](https://nemlog.nem.social/)<br>
 [NEM Japan Twitter](https://twitter.com/NEM_Japan)<br>
+[NEM 関連 @nemofficial](https://twitter.com/nemofficial)
+[Symbol @thesymbolchain](https://twitter.com/thesymbolchain)
+[Symbolシンジケート @SymbolSyndicate](https://twitter.com/SymbolSyndicate)
+[不死鳥財団 @TheFushichou](https://twitter.com/TheFushichou)
+[リンガフランカ @aBermudaCompany](https://twitter.com/aBermudaCompany)
 
 # SDKs
 [Symbol SDK](https://docs.symbol.dev/ja/sdk.html)<br>
