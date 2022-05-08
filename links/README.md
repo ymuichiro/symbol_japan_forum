@@ -47,6 +47,7 @@ Symbol Global Site　(公式サイト準備中)<br>
 
 # SDKs
 [Symbol SDK](https://docs.symbol.dev/ja/sdk.html)<br>
+[SDKの使い方 速習](https://github.com/xembook/quick_learning_symbol)<br>
 
 # Core
 [Symbol Github](https://github.com/symbol)<br>
