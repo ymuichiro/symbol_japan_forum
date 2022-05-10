@@ -59,14 +59,14 @@ https://twitter.com/symboljp_forum
 
 <div align="right">
     <img
-         src="./logo/cc_by_nc_sa/SymbolJapanForum_white_sakura.gif#gh-light-mode-only"
+         src="./logo/cc_by_nc_sa/SymbolJapanForum_LOGO_Summer.jpg#gh-light-mode-only"
          height="200px"
          alt="BlockChain Project"
          style="marginTop:10px;marginBottom:10px">
 </div>
 <div align="right">
     <img
-         src="./logo/cc_by_nc_sa/20220510_015019.jpg#gh-dark-mode-only"
+         src="./logo/cc_by_nc_sa/SymbolJapanForum_LOGO_Summer.jpg#gh-dark-mode-only"
          height="200px"
          alt="BlockChain Project"
          style="marginTop:10px;marginBottom:10px">
