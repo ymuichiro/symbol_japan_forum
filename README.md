@@ -45,7 +45,7 @@ SymbolはL１ブロックチェーンであり、新しい技術です。この�
 - [動画館(Movie Theater)](https://github.com/ymuichiro/symbol_japan_forum/issues/33)
 - [広報申請所（準備中)](https://github.com/ymuichiro/symbol_japan_forum/issues/27)
 - [参考リンク集](https://github.com/ymuichiro/symbol_japan_forum/tree/main/links)
-
+- [みんなで作るNEMWIKI](https://nemwiki.wicurio.com/)
 # Symbol Japan Forum公式アカウントについて
 https://twitter.com/symboljp_forum
 
