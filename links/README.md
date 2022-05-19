@@ -16,6 +16,7 @@ Symbol Global Site　(公式サイト準備中)<br>
 [iOS Symbol Arcana Wallet](https://apps.apple.com/jp/app/arcana-wallet/id1603599435)<br>
 [iOS NEM Wallet](https://apps.apple.com/jp/app/nem-wallet/id1227112677)<br>
 [Android NEM Wallet](https://play.google.com/store/apps/details?id=org.nem.nac.mainnet&hl=en_US&gl=US)<br>
+[EXYM](https://discord.com/channels/856325968096133191/957519418328498176)<br>
 
 # Tools
 [Symbol MainNet Explorer](https://symbol.fyi/)<br>
@@ -27,6 +28,7 @@ Symbol Global Site　(公式サイト準備中)<br>
 [NEM MainNet Node List](https://nemnodes.org/nodes/)<br>
 [Symbol Faucet](https://testnet.symbol.tools/)<br>
 [XYMReciever](https://xembook.github.io/xembook/xemreceiver)<br>
+[SSS Extension](https://github.com/inatatsu-tatsuhiro/SSS-Extension/wiki/Applications)<br>
 
 # Comunity
 ## Discord
