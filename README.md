@@ -36,13 +36,12 @@ SymbolはL１ブロックチェーンであり、新しい技術です。この�
 - 言語の強制はしないで下さい。相手が日本語でも英語でも、読めない場合は翻訳ツールを使って読みましょう
 
 # サイトマップ
-- [ディスカッション一覧](https://github.com/ymuichiro/symbol_japan_forum/issues)
-- 参考データ一覧
-- [Symbolはじめての一歩]（準備中）
+- [スレッド一覧](https://github.com/ymuichiro/symbol_japan_forum/issues)
+- [Symbol初心者用情報]（準備中）
 - [NFTやイラスト](https://github.com/ymuichiro/symbol_japan_forum/wiki/Gallery)
 - [雑談ルーム](https://github.com/ymuichiro/symbol_japan_forum/discussions)
 - プロジェクト紹介（工事中）
-- [パイレーツアカデミー準備編](https://github.com/ymuichiro/symbol_japan_forum/issues/24)
+- [参考データ一覧](https://github.com/ymuichiro/symbol_japan_forum/issues/24)
 - [動画館(Movie Theater)](https://github.com/ymuichiro/symbol_japan_forum/issues/33)
 - [【試運転開始】Symbol & NEM Community Info申請所](https://github.com/ymuichiro/symbol_japan_forum/issues/27)
 - [参考リンク集](https://github.com/ymuichiro/symbol_japan_forum/tree/main/links)
