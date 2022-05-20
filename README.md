@@ -37,6 +37,7 @@ SymbolはL１ブロックチェーンであり、新しい技術です。この�
 
 # サイトマップ
 - [ディスカッション一覧](https://github.com/ymuichiro/symbol_japan_forum/issues)
+- 参考データ一覧
 - [Symbolはじめての一歩]（準備中）
 - [NFTやイラスト](https://github.com/ymuichiro/symbol_japan_forum/wiki/Gallery)
 - [雑談ルーム](https://github.com/ymuichiro/symbol_japan_forum/discussions)
