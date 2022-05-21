@@ -29,6 +29,9 @@ Symbol Global Site　(公式サイト準備中)<br>
 [Symbol Faucet](https://testnet.symbol.tools/)<br>
 [XYMReciever](https://xembook.github.io/xembook/xemreceiver)<br>
 [SSS Extension](https://github.com/inatatsu-tatsuhiro/SSS-Extension/wiki/Applications)<br>
+[NFT-Drive](https://www.nft-drive.com/)<br>
+[NFT-DriveEx](https://www.nft-drive.com/service/index.html)<br>
+[NFT-DriveQR](https://www.nft-drive.com/service/index.html)<br>
 
 # Comunity
 ## Discord
@@ -68,3 +71,9 @@ Symbol Global Site　(公式サイト準備中)<br>
 [Cluster Symbol Hub 2F](https://cluster.mu/zh-CN/w/a7c4fa72-cd38-41cc-ae13-eac645b872c6)<br>
 [Cluster×Symbol](https://cluster.mu/w/202a839c-b0e9-49c8-8968-a994528b66f9)<br>
 
+# Study
+[速習Symbol - GitHub](https://github.com/xembook/quick_learning_symbol)<br>
+[速習Symbol解説 - youtube](https://youtube.com/playlist?list=PLifx63Bv-tdNXe3DqVQtqphIbGm2Ikl3a)<br>
+[SymbolSDK解説 - youtube](https://youtube.com/playlist?list=PLifx63Bv-tdONIPME-9xE3GACJ2JKdEMX)<br>
+[Symbol解体新書解説 - youtube](https://youtube.com/playlist?list=PLifx63Bv-tdPdRYxtX4e1iVS5eK-WX9ny)<br>
+[Symbolデスクトップウォレット解説 - youtube](https://youtube.com/playlist?list=PLifx63Bv-tdM27OZnne3-5IOvGyI_zijX)<br>
