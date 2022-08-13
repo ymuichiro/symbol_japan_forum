@@ -32,6 +32,12 @@ Symbol Global Site　(公式サイト準備中)<br>
 [NFT-Drive](https://www.nft-drive.com/)<br>
 [NFT-DriveEx](https://www.nft-drive.com/service/index.html)<br>
 [NFT-DriveQR](https://www.nft-drive.com/service/index.html)<br>
+[SSS Extension](https://chrome.google.com/webstore/detail/sss-extension/llildiojemakefgnhhkmiiffonembcan?hl=ja)<br>
+
+# Market Place
+[COMSA(NFT)](https://comsa.io/ja)<br>
+--> 運営 テックビューロ https://techbureau.jp/
+
 
 # Comunity
 ## Discord
@@ -40,7 +46,10 @@ Symbol Global Site　(公式サイト準備中)<br>
 
 ## Site
 [NEMLOG](https://nemlog.nem.social/)<br>
-[SymbolJapanForum 通称じむはぶ](https://github.com/ymuichiro/symbol_japan_forum)<br>
+[Symbol Blog（en）](https://symbolblog.com/)<br>
+[nemnews.io(ru)](https://nemnews.io/)<br>
+[SymbolJapanForum(ja)](https://github.com/ymuichiro/symbol_japan_forum)<br>
+[Symbolアグボン詐欺注意喚起サイト](https://sites.google.com/view/symbol-fraud-prevention-req)<br>
 
 ## Twitter
 [NEM 関連 @nemofficial](https://twitter.com/nemofficial)<br>
