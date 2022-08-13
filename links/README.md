@@ -8,6 +8,9 @@ Symbol Global Site　(公式サイト準備中)<br>
 [NEM Site](https://nem.ghost.io/)<br>
 [NEM Wikipedia](https://ja.wikipedia.org/wiki/NEM_(暗号通貨))<br>
 [Symbol Wikipedia](https://ja.wikipedia.org/wiki/Symbol_(ブロックチェーン))<br>
+[Symbol ホワイトペーパー（en）](https://symbol.openapostille.com/apostille/2617CDEDA05679A1FE9F14E826BFAE7D21216041B8BB52F6076EF13BF9792FBB)<br>
+[Symbol ホワイトペーパー（ja）](https://nemlog.nem.social/blog/44259)<br>
+
 
 # Apps
 [iOS Symbol Wallet](https://apps.apple.com/jp/app/symbol-wallet/id1528741845)<br>
@@ -33,6 +36,7 @@ Symbol Global Site　(公式サイト準備中)<br>
 [NFT-DriveEx](https://www.nft-drive.com/service/index.html)<br>
 [NFT-DriveQR](https://www.nft-drive.com/service/index.html)<br>
 [SSS Extension](https://chrome.google.com/webstore/detail/sss-extension/llildiojemakefgnhhkmiiffonembcan?hl=ja)<br>
+[Open Apostille](https://symbol.openapostille.com/)<br>
 
 # Market Place
 [COMSA(NFT)](https://comsa.io/ja)<br>
@@ -58,6 +62,7 @@ Symbol Global Site　(公式サイト準備中)<br>
 [不死鳥財団 @TheFushichou](https://twitter.com/TheFushichou)<br>
 [リンガフランカ @aBermudaCompany](https://twitter.com/aBermudaCompany)<br>
 [Symbol & NEM Community info](https://twitter.com/symnem_com_info)<br>
+[Symbol×NFT 国内最大の COMSAコミュニティ](https://twitter.com/i/communities/1496796104482254849)<br>
 
 # SDKs
 [Symbol SDK](https://docs.symbol.dev/ja/sdk.html)<br>
