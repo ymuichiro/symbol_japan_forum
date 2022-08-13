@@ -5,21 +5,21 @@ this page is link collection about "symbol".Please let me know if there are any 
 Symbol Global Site　(公式サイト準備中)<br>
 [Symbol documentation](https://docs.symbol.dev/ja/index.html)<br>
 [NEM+ | NPO法人 NEM技術普及推進会 NEMTUS](https://nemtus.com/)<br>
-[NEM Site](https://nem.ghost.io/)<br>
 [NEM Wikipedia](https://ja.wikipedia.org/wiki/NEM_(暗号通貨))<br>
 [Symbol Wikipedia](https://ja.wikipedia.org/wiki/Symbol_(ブロックチェーン))<br>
 [Symbol ホワイトペーパー（en）](https://symbol.openapostille.com/apostille/2617CDEDA05679A1FE9F14E826BFAE7D21216041B8BB52F6076EF13BF9792FBB)<br>
 [Symbol ホワイトペーパー（ja）](https://nemlog.nem.social/blog/44259)<br>
 
 
-# Apps
+# Wallets
 [iOS Symbol Wallet](https://apps.apple.com/jp/app/symbol-wallet/id1528741845)<br>
-[Android Symbol Wallet](https://play.google.com/store/apps/details?id=nem.group.symbol.wallet&hl=ja&gl=US)<br>
-[Android Symbol Arcana Wallet](https://play.google.com/store/apps/details?id=com.shu.software.symbol_arcana&hl=en_US&gl=US)<br>
 [iOS Symbol Arcana Wallet](https://apps.apple.com/jp/app/arcana-wallet/id1603599435)<br>
 [iOS NEM Wallet](https://apps.apple.com/jp/app/nem-wallet/id1227112677)<br>
+[Android Symbol Wallet](https://play.google.com/store/apps/details?id=nem.group.symbol.wallet&hl=ja&gl=US)<br>
+[Android Symbol Arcana Wallet](https://play.google.com/store/apps/details?id=com.shu.software.symbol_arcana&hl=en_US&gl=US)<br>
 [Android NEM Wallet](https://play.google.com/store/apps/details?id=org.nem.nac.mainnet&hl=en_US&gl=US)<br>
-[EXYM](https://discord.com/channels/856325968096133191/957519418328498176)<br>
+[Desktop wallet（Symbol）](https://github.com/symbol/desktop-wallet)<br>
+[Desktop wallet（NEM）](https://github.com/NemProject/NanoWallet/tree/2.4.4)<br>
 
 # Tools
 [Symbol MainNet Explorer](https://symbol.fyi/)<br>
@@ -31,17 +31,16 @@ Symbol Global Site　(公式サイト準備中)<br>
 [NEM MainNet Node List](https://nemnodes.org/nodes/)<br>
 [Symbol Faucet](https://testnet.symbol.tools/)<br>
 [XYMReciever](https://xembook.github.io/xembook/xemreceiver)<br>
-[SSS Extension](https://github.com/inatatsu-tatsuhiro/SSS-Extension/wiki/Applications)<br>
 [NFT-Drive](https://www.nft-drive.com/)<br>
 [NFT-DriveEx](https://www.nft-drive.com/service/index.html)<br>
 [NFT-DriveQR](https://www.nft-drive.com/service/index.html)<br>
-[SSS Extension](https://chrome.google.com/webstore/detail/sss-extension/llildiojemakefgnhhkmiiffonembcan?hl=ja)<br>
+[SSS Extension（Download）](https://chrome.google.com/webstore/detail/sss-extension/llildiojemakefgnhhkmiiffonembcan?hl=ja)<br>
+[SSS Extension(Github)](https://github.com/inatatsu-tatsuhiro/SSS-Extension/wiki/Applications)<br>
 [Open Apostille](https://symbol.openapostille.com/)<br>
 
 # Market Place
 [COMSA(NFT)](https://comsa.io/ja)<br>
 --> 運営 テックビューロ https://techbureau.jp/
-
 
 # Comunity
 ## Discord
