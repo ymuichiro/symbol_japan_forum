@@ -50,10 +50,7 @@ SymbolはL１ブロックチェーンであり、新しい技術です。この�
 - [Symbol初心者用情報]（準備中）
 - [NFTやイラスト](https://github.com/ymuichiro/symbol_japan_forum/wiki/Gallery)
 - [雑談ルーム](https://github.com/ymuichiro/symbol_japan_forum/discussions)
-- プロジェクト紹介（工事中）
 - [参考データ一覧](https://github.com/ymuichiro/symbol_japan_forum/issues/24)
-- [動画館(Movie Theater)](https://github.com/ymuichiro/symbol_japan_forum/issues/33)
-- [【試運転開始】Symbol & NEM Community Info申請所](https://github.com/ymuichiro/symbol_japan_forum/issues/27)
 - [参考リンク集](https://github.com/ymuichiro/symbol_japan_forum/tree/main/links)
 - [みんなで作るNEMWIKI](https://nemwiki.wicurio.com/)
 # Symbol Japan Forum公式アカウントについて
