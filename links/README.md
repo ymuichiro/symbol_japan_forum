@@ -3,6 +3,7 @@ this page is link collection about "symbol".Please let me know if there are any 
 
 # About Symbol
 Symbol Global Site　(公式サイト準備中)<br>
+[Symbol Community Web](https://symbol-community.com)<br>
 [Symbol documentation](https://docs.symbol.dev/ja/index.html)<br>
 [NEM+ | NPO法人 NEM技術普及推進会 NEMTUS](https://nemtus.com/)<br>
 [NEM Wikipedia](https://ja.wikipedia.org/wiki/NEM_(暗号通貨))<br>
@@ -44,8 +45,10 @@ Symbol Global Site　(公式サイト準備中)<br>
 
 # Comunity
 ## Discord
-[Discord NEM Japan User Group](https://discord.gg/ab56A3A6)<br>
+[Discord NEM Japan User Group](https://discord.gg/5CKEnxsJkX)<br>
 [Discord Symbol](https://discord.gg/xymcity)<br>
+[Symbol/NEM マーケ部](https://discord.gg/TT2tvxFfN4)<br>
+[Symbol Times](https://discord.gg/28evg3zQpK )<br>
 
 ## Site
 [NEMLOG](https://nemlog.nem.social/)<br>
