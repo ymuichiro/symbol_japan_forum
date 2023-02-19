@@ -12,7 +12,7 @@
 
 このレポジトリは過去、今後の資料保管庫とします。何か保存すべき資料、文献があった際には更新されますが、メインの活動は以下へ移動します。
 
-* 情報発信 ... https://symbol-community.com/ja-JP
+* 情報発信 ... https://symbol-community.com/ja
   * 情報発信系管理者はこちらへ ... https://cms.symbol-community.com/admin/auth/login
 * 連携/活動 ... https://discord.gg/A8MRq5Vuvt
 ---
